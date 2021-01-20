@@ -55,6 +55,6 @@ void new_password(int *str)
 int main()
 {
 	new_password(password());
-	printf("\n");
+	printf("HOLA\n");
 	return 0;
 }
